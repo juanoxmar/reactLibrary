@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactLibrary/static/css/main.299d8f42.chunk.css",
+    "main.js": "/reactLibrary/static/js/main.8bcab11f.chunk.js",
+    "main.js.map": "/reactLibrary/static/js/main.8bcab11f.chunk.js.map",
+    "runtime-main.js": "/reactLibrary/static/js/runtime-main.d1cb579b.js",
+    "runtime-main.js.map": "/reactLibrary/static/js/runtime-main.d1cb579b.js.map",
+    "static/css/2.08f2b8eb.chunk.css": "/reactLibrary/static/css/2.08f2b8eb.chunk.css",
+    "static/js/2.4279d97f.chunk.js": "/reactLibrary/static/js/2.4279d97f.chunk.js",
+    "static/js/2.4279d97f.chunk.js.map": "/reactLibrary/static/js/2.4279d97f.chunk.js.map",
+    "index.html": "/reactLibrary/index.html",
+    "precache-manifest.c06e9cff140a18a8aa883ca094378c40.js": "/reactLibrary/precache-manifest.c06e9cff140a18a8aa883ca094378c40.js",
+    "service-worker.js": "/reactLibrary/service-worker.js",
+    "static/css/2.08f2b8eb.chunk.css.map": "/reactLibrary/static/css/2.08f2b8eb.chunk.css.map",
+    "static/css/main.299d8f42.chunk.css.map": "/reactLibrary/static/css/main.299d8f42.chunk.css.map",
+    "static/js/2.4279d97f.chunk.js.LICENSE.txt": "/reactLibrary/static/js/2.4279d97f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/reactLibrary/static/media/roboto-latin-900-normal.bb1e4dc6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1cb579b.js",
+    "static/css/2.08f2b8eb.chunk.css",
+    "static/js/2.4279d97f.chunk.js",
+    "static/css/main.299d8f42.chunk.css",
+    "static/js/main.8bcab11f.chunk.js"
+  ]
+}
